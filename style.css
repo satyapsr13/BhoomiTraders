@@ -128,7 +128,7 @@ nav {
   background-color: white;
   color: black;
 }
-
+/*
 .sliderItem:nth-child(1) .sliderBg {
   background-color: #369e62;
 }
@@ -143,8 +143,8 @@ nav {
 }
 .sliderItem:nth-child(5) .sliderBg {
   background-color: rgb(124, 115, 80);
-}
-
+} */
+/*
 .sliderItem:nth-child(1) .sliderPrice {
   color: #369e62;
 }
@@ -159,7 +159,7 @@ nav {
 }
 .sliderItem:nth-child(5) .sliderPrice {
   color: cornsilk;
-}
+} */
 
 .features {
   display: flex;
@@ -439,8 +439,8 @@ footer {
 }
 
 .fIcon{
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   margin-right: 10px;
 }
 
