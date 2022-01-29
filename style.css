@@ -47,6 +47,11 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: auto;
+}
+.navBottom  img{
+     /* padding: auto; */
+     margin: 20px;
 }
 
 .menuItem {
