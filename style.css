@@ -19,8 +19,18 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-
-.search {
+.reviewplease {
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+  padding: auto;
+  margin-left: 10px;
+}
+.map{
+  border-radius: 20px;
+  border: 2px solid #111 ;
+}
+/* .search {
   display: flex;
   align-items: center;
   background-color: gray;
@@ -30,12 +40,13 @@ nav {
 
 .searchInput {
   border: none;
+
   background-color: transparent;
 }
 
 .searchInput::placeholder {
   color: lightgray;
-}
+} */
 
 .limitedOffer {
   font-size: 20px;
@@ -54,8 +65,17 @@ nav {
      margin: auto;
      padding: auto;
      border-radius: 40px;
-}
 
+}
+.availableitems {
+  /* color: green; */
+  font-weight: bold;
+  /* margin: auto; */
+  margin-right: 50vw;
+  margin-left: 50vw;
+  /* padding: auto; */
+  display: inline-block;
+}
 .menuItem {
   margin-right: 50px;
   cursor: pointer;
